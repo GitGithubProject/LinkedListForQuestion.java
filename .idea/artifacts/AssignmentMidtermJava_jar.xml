@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="AssignmentMidtermJava:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AssignmentMidtermJava_jar</output-path>
+    <root id="archive" name="AssignmentMidtermJava.jar">
+      <element id="module-output" name="AssignmentMidtermJava" />
+    </root>
+  </artifact>
+</component>
