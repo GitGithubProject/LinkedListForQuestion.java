@@ -4,7 +4,7 @@ package com.company;
 /// Name Nahom Gebreyohannies
 /// Midterm Project
 /// Course CSI 345 Winter 2021
-/// Instructor
+/// Instructor Lhoucine Zerrouki
 /// </summary>
 
 import java.util.NoSuchElementException;
